@@ -1,4 +1,4 @@
-[![Actions Status](https://github.com/janeskil1525/Daje-Database-Migrator/actions/workflows/test.yml/badge.svg)](https://github.com/janeskil1525/Daje-Database-Migrator/actions)
+[![Actions Status](https://github.com/janeskil1525/Daje-Database-Migrator/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/janeskil1525/Daje-Database-Migrator/actions?workflow=test)
 # NAME
 
 Daje::Database::Migrator - It's the database migrate plugin for Daje::Workflow

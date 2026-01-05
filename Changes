@@ -2,5 +2,6 @@ Revision history for Perl extension Daje-Database-Migrator
 
 {{$NEXT}}
 
+    - 2026-10-05 Exception handling added
     - original version
 
